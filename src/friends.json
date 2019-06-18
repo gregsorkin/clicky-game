@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "http://www.simpsoncrazy.com/content/pictures/homer/HomerSimpson34.gif",
+        "clicked": false 
+    },
+    {
+        "id": 2,
+        "image": "http://www.simpsoncrazy.com/content/pictures/bart/BartSimpson25.gif",
+        "clicked": false 
+    },
+    {
+        "id": 3,
+        "image": "http://www.simpsoncrazy.com/content/pictures/lisa/th/LisaSimpson4.gif",
+        "clicked": false 
+    },
+    {
+        "id": 4,
+        "image": "http://www.simpsoncrazy.com/content/pictures/maggie/th/MaggieSimpson1.gif",
+        "clicked": false 
+    },    
+    {
+        "id": 5,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/Skinner1.gif",
+        "clicked": false 
+    },
+    {
+        "id": 6,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/GroundskeeperWilly1.gif",
+        "clicked": false 
+    },
+    {
+        "id": 7,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/WaylonSmithers2.gif",
+        "clicked": false 
+    },
+    {
+        "id": 8,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/MoeSzyslak3.gif",
+        "clicked": false 
+    },
+    {
+        "id": 9,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/Grampa2.gif",
+        "clicked": false 
+    },
+    {
+        "id": 10,
+        "image": "http://www.simpsoncrazy.com/content/pictures/regulars/th/Barney1.gif",
+        "clicked": false 
+    },
+    {
+        "id": 11,
+        "image": "https://static.simpsonswiki.com/images/3/39/Tito_Puente.png",
+        "clicked": false 
+    },    
+    {
+        "id": 12,
+        "image": "https://live.staticflickr.com/2569/4098896111_7c06f2bbae.jpg",
+        "clicked": false 
+    }
+]   
